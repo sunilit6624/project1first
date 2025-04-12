@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("git practice");
-        System.out.println("third commit");
+        System.out.println("third 12 commit");
         System.out.println("fourth commit");
 
 
